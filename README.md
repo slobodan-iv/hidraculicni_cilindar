@@ -1,2 +1,6 @@
 # hidraulicni_cilindar
 Web site o konstrukciji hidraulicnog cilindra
+
+Web site namenjen ucenicima cetvorogodisnjim zanimanjima: masinski tehnicar, masinski tehnicar za kompjutersko konstruisanje, tehnicar CNC tehnologija itd., dobrim ljudima dobre ljude struke: Masinstvo i obrada metala Republike Srpske (BiH) i ostalim...
+
+Ja mnogo mnogo volim mog sina Alekseja Ivkovica Cvijica nedostajes mi do najdalje zvezde i jos dalje...
